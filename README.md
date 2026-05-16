@@ -25,7 +25,7 @@ Here are a few Go-based utilities I've recently built to solve specific workflow
 A lightweight command-line template substitution utility built in Go. It reads raw text or HTML templates from standard input, parses structured placeholder tokens, and evaluates them against environment variable configurations to stream fully rendered text to `stdout`.
 
 ### [tw2html](https://github.com/mmngadi/tw2html)
-An HTML compilation engine designed for Tailwind v4. It extracts class utility tokens from raw layout files, runs a Node-backed PostCSS AST resolution layer to flatten styles down to an Intermediate Representation (IR), and outputs production-grade, email-safe HTML with fully inlined styles.
+An HTML compilation engine designed for Tailwind v4. It extracts class utility tokens from raw layout files, runs a Node-backed PostCSS AST resolution layer to flatten styles down to an Intermediate Representation (IR), and outputs email-safe HTML with fully inlined styles.
 
 ---
 
