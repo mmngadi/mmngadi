@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mziwenhlanhla Mngadi
+# Hi, I'm Mziwenhlanhla Mngadi
 
 ### Core Transmission Tech by Day | Recreational Developer by Night
 
@@ -21,10 +21,7 @@ Currently, I spend my weekends making cool tools and utilities and such.
 
 Here are a few Go-based utilities I've recently architected to solve specific workflow and automation challenges:
 
-### [goma](https://github.com/mmngadi/goma)
-A high-performance, pipeline-oriented CLI utility written in Go for sending emails via `msmtp`. It specializes in handling dynamic content from `stdin` and seamlessly managing complex MIME multipart messages for file attachments without the overhead of heavy external dependencies.
-
-### [gsub](https://github.com/mmngadi/gsub)
+### [gsub](https://github.com/mmngadi/gsub-pub)
 A lightweight command-line template substitution utility built in Go. It reads raw text or HTML templates from standard input, parses structured placeholder tokens, and evaluates them against environment variable configurations to stream fully rendered text to `stdout`.
 
 ### [tw2html](https://github.com/mmngadi/tw2html)
@@ -34,4 +31,4 @@ An HTML compilation engine designed for Tailwind v4. It extracts class utility t
 
 ##  Connect with Me
 
-* 🖥️ **LinkedIn:** [@Mziwenhlanhla Mngadi](https://www.linkedin.com/in/mziwenhlanhla-mngadi)
+* **LinkedIn:** [@Mziwenhlanhla Mngadi](https://www.linkedin.com/in/mziwenhlanhla-mngadi)
