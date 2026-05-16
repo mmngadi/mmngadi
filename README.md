@@ -1,4 +1,4 @@
-# 👋 Hi, I'm mmngadi
+# 👋 Hi, I'm Mziwenhlanhla Mngadi
 
 ### Core Transmission Tech by Day | Recreational Developer by Night
 
@@ -35,4 +35,3 @@ An HTML compilation engine designed for Tailwind v4. It extracts class utility t
 ##  Connect with Me
 
 * 🖥️ **LinkedIn:** [@Mziwenhlanhla Mngadi](https://www.linkedin.com/in/mziwenhlanhla-mngadi)
-* 🛠️ Always hacking on something new over the weekends—feel free to reach out if you want to talk systems architecture, telecom infrastructure, or AI automation!
