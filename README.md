@@ -19,7 +19,7 @@ Currently, I spend my weekends making cool tools and utilities and such.
 
 ##  Works & Projects
 
-Here are a few Go-based utilities I've recently architected to solve specific workflow and automation challenges:
+Here are a few Go-based utilities I've recently built to solve specific workflow and automation challenges:
 
 ### [gsub](https://github.com/mmngadi/gsub-pub)
 A lightweight command-line template substitution utility built in Go. It reads raw text or HTML templates from standard input, parses structured placeholder tokens, and evaluates them against environment variable configurations to stream fully rendered text to `stdout`.
