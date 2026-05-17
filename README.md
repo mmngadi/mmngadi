@@ -2,9 +2,9 @@
 
 ### Core Transmission Tech by Day | Recreational Developer by Night
 
-By day, I work in carrier-grade telecommunications, managing core transmission infrastructure. By night, I tinker with automation and systems architecture. 
+I work in carrier-grade telecommunications, managing core transmission infrastructure and I tinker with automation and systems architecture. 
 
-Currently, I spend my weekends making cool tools and utilities and such. 
+I spend my weekends making cool tools and utilities and such. 
 
 ---
 
@@ -30,6 +30,6 @@ An HTML compilation engine designed for Tailwind v4. It extracts class utility t
 
 ---
 
-##  Connect with Me
+##  Connect with me
 
 * **LinkedIn:** [@Mziwenhlanhla Mngadi](https://www.linkedin.com/in/mziwenhlanhla-mngadi)
