@@ -1,4 +1,4 @@
-# Hi, I'm Mziwenhlanhla Mngadi
+# Hi, I'm Muzi
 
 ### Core Transmission Tech by Day | Recreational Developer by Night
 
