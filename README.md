@@ -31,5 +31,4 @@ An HTML compilation engine designed for Tailwind v4. It extracts class utility t
 ---
 
 ##  Connect with me
-
-* **LinkedIn:** [@Mziwenhlanhla Mngadi](https://www.linkedin.com/in/mziwenhlanhla-mngadi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ww.linkedin.com/in/mziwenhlanhla-mngadi)
