@@ -12,7 +12,6 @@ I spend my weekends making cool tools and utilities and such.
 
 ### Languages & Ecosystems
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -25,8 +24,8 @@ Here are a few Go-based utilities I've recently built to solve specific workflow
 ### [gsub](https://github.com/mmngadi/gsub-pub)
 A lightweight command-line template substitution utility built in Go. It reads raw text templates from standard input, parses structured placeholder tokens, and evaluates them against environment variable configurations to stream fully rendered text to `stdout`.
 
-### [tw2html](https://github.com/mmngadi/tw2html)
-An HTML compilation engine designed for Tailwind v4. It extracts class utility tokens from raw layout files, runs a Node-backed PostCSS AST resolution layer to flatten styles down to an Intermediate Representation (IR), and outputs email-safe HTML with fully inlined styles.
+### [goma](https://github.com/mmngadi/goma-pub)
+A pipeline-oriented CLI utility written in Go for sending emails via msmtp. It specializes in handling dynamic content from stdin and managing complex MIME multipart messages for attachments without the overhead of heavy dependencies.
 
 ---
 
